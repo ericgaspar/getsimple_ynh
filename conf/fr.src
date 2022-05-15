@@ -1,7 +1,0 @@
-SOURCE_URL=http://get-simple.info/extend/export/8471/753/fr-traduction-en-francais-pour-v.3.3-french-translation-for-3.3-ready.zip
-SOURCE_SUM=66acb58e7f61cd6526e1ba6bc4de561c17cb590079761f30fab2a8f221c4908b
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
-SOURCE_EXTRACT=true
