@@ -71,11 +71,11 @@ define('GSDONOTPING', 1);
 	
 # Set PHP locale
 # http://php.net/manual/en/function.setlocale.php
-#setlocale(LC_ALL, 'en_US');
+etlocale(LC_ALL, 'en_US');
 
 # Define default timezone of server, accepts php timezone string
 # valid timeszones can be found here http://www.php.net/manual/en/timezones.php
-# define('GSTIMEZONE', 'America/Chicago');
+define('GSTIMEZONE', '__TIMEZONE__');
 
 # Disable loading of external CDN versions of scripts (jQuery/jQueryUI)
 #define("GSNOCDN",true);
