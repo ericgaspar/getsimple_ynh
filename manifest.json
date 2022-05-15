@@ -13,7 +13,6 @@
         "website": "http://get-simple.info/",
         "demo": "https://demo.example.com",
         "admindoc": "http://get-simple.info/wiki/fr:start",
-        "userdoc": "https://yunohost.org/apps",
         "code": "https://github.com/GetSimpleCMS/GetSimpleCMS"
     },
     "license": "GPL-3.0",
@@ -27,8 +26,7 @@
     "multi_instance": true,
     "services": [
         "nginx",
-        "php7.4-fpm",
-        "mysql"
+        "php7.4-fpm"
     ],
     "arguments": {
         "install" : [
