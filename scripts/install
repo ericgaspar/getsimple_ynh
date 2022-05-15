@@ -102,12 +102,12 @@ ynh_add_fpm_config
 #=================================================
 # ADD A CONFIGURATION
 #=================================================
-ynh_script_progression --message="Adding a configuration file..." --weight=1
+# ynh_script_progression --message="Adding a configuration file..." --weight=1
 
-ynh_add_config --template="../conf/temp.gsconfig.php" --destination="$final_path/gsconfig.php"
+# ynh_add_config --template="../conf/temp.gsconfig.php" --destination="$final_path/gsconfig.php"
 
-chmod 400 "$final_path/gsconfig.php"
-chown $app:$app "$final_path/gsconfig.php"
+# chmod 655 "$final_path/gsconfig.php"
+# chown $app:$app "$final_path/gsconfig.php"
 
 #=================================================
 # SETUP SSOWAT
