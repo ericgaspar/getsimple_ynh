@@ -6,7 +6,6 @@
 		language="en_US"
 		admin="john"
 		password="1Strong-Password"
-		port="666"
 	; Checks
 		pkg_linter=1
 		setup_sub_dir=1
