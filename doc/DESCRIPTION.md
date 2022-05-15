@@ -1,9 +1,10 @@
-Some long and extensive description of what the app is and does, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+GetSimple is an XML based, stand-alone, fully independent and lite Content Management System. To go along with its best-in-class user interface, we have loaded it with features that every website needs, but with nothing it doesn't. GetSimple is truly the simplest way to manage a small-business website.
 
 ### Features
 
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco ;
-- Laboris nisi ut aliquip ex ea commodo consequat ;
-- Duis aute irure dolor in reprehenderit in voluptate ;
-- Velit esse cillum dolore eu fugiat nulla pariatur ;
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+- XML Based
+- You can "Undo" Almost Everything
+- Easy to Learn UI
+- Simple Installation
+- Simple Theme Customization
+- Designed For the Small-Site Market
